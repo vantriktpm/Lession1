@@ -5,7 +5,6 @@ const app = Vue.createApp({
       yourAge: "18",
       linkImage:
         "https://ecdn.game4v.com/g4v-content/uploads/2021/02/Mugen-train-1-game4v.jpeg",
-      nameInput: "Johnathant",
     };
   },
   methods: {
